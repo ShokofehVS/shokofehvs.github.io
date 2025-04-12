@@ -67,7 +67,7 @@ Work experience
   
 Projects
 ======
-* Jan. 2024 -- present: FunBic-CCA
+* Jan. 2024 -- Nov. 2024: FunBic-CCA
     * Privacy-preserving evaluation of linear as well as non-linear operations
     * Optimized building block with MPC cryptography technique
       
