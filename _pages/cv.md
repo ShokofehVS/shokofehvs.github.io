@@ -17,14 +17,6 @@ Education
 
 Work experience
 ======
-* Jan. 2024 - Jan. 2025: Single-frame Forensic Watermarking QA Support/ Test Engineer
-  * QA Department, castLabs GmbH
-  * Berlin, Germany
-  * Duties included:
-      * Kept the verification protocols up-to-date with the latest product enhancements.
-      * Executed QA tests, particularly focusing on the Forensic Watermarking solution.
-      * Performed defect tracking & management in JIRA.
-
 * Jan. 2022 - present: Applied Cryptography Engineer/ Researcher
   * Database Technologies and Data Analytics Group, Goethe University Frankfurt
   * Frankfurt am Main, Germany
@@ -34,7 +26,23 @@ Work experience
       * Balanced accuracy and performance with the security guarantees; while improving upon existing works in the domain, resulting in 83.38% accuracy compared to the non-encrypted algorithm.
       * Spearheaded the successful implementation of comprehensive pipelines for analyzing medical data provided by Frankfurt University Hospital, employing specialized biclustering algorithms that enhanced understanding of gene expression.
       *  Managed a team of Python programmers to deliver open-source projects with publications in the top-ranking conferences.
-
+   
+* Feb. 2025 - present: Information Technology Assistant 
+  * IT Department, castLabs GmbH
+  * Hybrid, Germany
+  * Duties included:
+      * Researched different aspects of AI tools, deployment environment and necessary equipment.
+      * Implemented internal chatbot with the chosen infrastructure.
+      * Monitored the performance and accuracy of the system.
+        
+* Jan. 2024 - Jan. 2025: Single-frame Forensic Watermarking QA Support/ Test Engineer
+  * QA Department, castLabs GmbH
+  * Berlin, Germany
+  * Duties included:
+      * Kept the verification protocols up-to-date with the latest product enhancements.
+      * Executed QA tests, particularly focusing on the Forensic Watermarking solution.
+      * Performed defect tracking & management in JIRA.
+   
 * Oct. 2016 - Mar. 2020: Business Analyst and Software Test Engineer
   * Card Management System Team, Datis Arian Queshm (Dotin) Company
   * Tehran, Iran
