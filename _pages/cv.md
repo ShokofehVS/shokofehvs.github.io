@@ -27,7 +27,7 @@ Work experience
       * Spearheaded the successful implementation of comprehensive pipelines for analyzing medical data provided by Frankfurt University Hospital, employing specialized biclustering algorithms that enhanced understanding of gene expression.
       *  Managed a team of Python programmers to deliver open-source projects with publications in the top-ranking conferences.
    
-* Feb. 2025 - present: Information Technology Assistant 
+* Feb. 2025 - Jun. 2025: Information Technology Assistant 
   * IT Department, castLabs GmbH
   * Hybrid, Germany
   * Duties included:
