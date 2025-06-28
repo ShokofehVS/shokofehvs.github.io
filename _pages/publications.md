@@ -27,7 +27,7 @@ Journal papers
 Conference papers
 ------
 
-1. **VahidianSadegh, Sh.**, Ibarrondo, A., Wiese, L.: *FunBic-CCA: Function Secret Sharing for Biclusterings Applied to Cheng and Church Algorithm*, International Conference on Security and Cryptography (SECRYPT), June 2025.
+1. **VahidianSadegh, Sh.**, Ibarrondo, A., Wiese, L.: *FunBic-CCA: Function Secret Sharing for Biclusterings Applied to Cheng and Church Algorithm*, Proceedings of the 22nd International Conference on Security and Cryptography, 2025: 37-4. [link](https://www.scitepress.org/PublishedPapers/2025/134554/)
    
 2. Schäfer, J., **VahidianSadegh, Sh.**, Nüttgens, H., Wiese, L., *Applicability of Homomorphic Encryption for Intrusion Detection*, 36th crypto day matters 2024, Regensburg, Germany. [link](https://dl.gi.de/bitstreams/e2440e52-a4a3-45e2-93c8-44ef7d61893d/download)
 
