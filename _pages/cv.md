@@ -97,6 +97,10 @@ Projects
   
 Awards & Honors 
 ======
+* 2025: Best Student Paper, SECRYPT 2025
+  * Goethe University Frankfurt
+  * Frankfurt am Main, Germany
+    
 * 2023: DAAD Bridge Scholarships Iran, 2023
   * Goethe University Frankfurt
   * Frankfurt am Main, Germany
