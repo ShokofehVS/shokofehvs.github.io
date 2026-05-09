@@ -155,7 +155,7 @@ Languages
 Skills
 ======
 * Technical Skills
-  * Privacy-preserving Machine Learning: Fully Homomorphic Encryption (Pyfhel), Multi-party Computation (Funshade), Federated Learning (MetisFL), Differential Privacy (DP)
+  * Privacy-preserving Machine Learning: Fully Homomorphic Encryption (Pyfhel), Multi-party Computation (Funshade), Federated Learning (MetisFL), Differential Privacy (DiffPrivlib)
   * Programming Language: Python, Java, C#
   * Big Data Components: Hadoop ecosystem (HDFS, YARN, MapReduce), ingestion and integration (sqoop, Flume, Kafka), stream and batch processing (Apache Spark and Pig)
   * Data Analytics and Visualizations: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
