@@ -21,19 +21,25 @@ Work experience
   * Database Technologies and Data Analytics Group, Goethe University Frankfurt
   * Frankfurt am Main, Germany
   * Duties included:
-      *  Developed the first comparative platform for privacy-preserving biclustering algorithms by homomorphic encryption technique that enabled the computation of sensitive genomic data directly on encrypted data.
-      *  Designed a mixed protocol machine learning framework that integrated two advanced cryptography schemes, including CKKS and functional secret sharing to provide the first fully secure workflow for biclustering algorithms.
-      * Balanced accuracy and performance with the security guarantees; while improving upon existing works in the domain, resulting in 83.38% accuracy compared to the non-encrypted algorithm.
+      *  Developed the first comparative platform for privacy-preserving biclustering algorithms by using the homomorphic encryption technique that enabled the computation of sensitive genomic data directly on encrypted data.
+      * Delivered a fully secure workflow for biclustering algorithms, employing Multi-party Computation schemes to provide privacy and full correctness.
       * Spearheaded the successful implementation of comprehensive pipelines for analyzing medical data provided by Frankfurt University Hospital, employing specialized biclustering algorithms that enhanced understanding of gene expression.
       *  Managed a team of Python programmers to deliver open-source projects with publications in the top-ranking conferences.
-   
+
+* Nov. 2025 - Apr. 2026: Visiting Researcher 
+  * Blue Skye Research Team, SAP Signavio SE
+  * Hybrid, Germany
+  * Duties included:
+      * Conducted in-depth research in process mining with a focus on exploratory analysis and privacy-preserving event logs of order to cash processes and statistical information.
+      * Delivered end-to-end implementation of research results and comparative evaluation of existing privacy techniques through systematic benchmarking against baseline methods.
+        
 * Feb. 2025 - Jun. 2025: Information Technology Assistant 
   * IT Department, castLabs GmbH
   * Hybrid, Germany
   * Duties included:
-      * Researched different aspects of AI tools, deployment environment and necessary equipment.
-      * Implemented internal chatbot with the chosen infrastructure.
-      * Monitored the performance and accuracy of the system.
+      * Conducted research on AI platforms, deployment environments, and hardware requirements.
+      * Designed and implemented an internal chatbot using selected LLM infrastructure.
+      * Monitored system performance and accuracy, optimizing reliability and responsiveness.
         
 * Jan. 2024 - Jan. 2025: Single-frame Forensic Watermarking QA Support/ Test Engineer
   * QA Department, castLabs GmbH
@@ -67,6 +73,14 @@ Work experience
   
 Projects
 ======
+* Nov. 2025 -- Apr. 2026: PPDG
+    * Differentially private event data and statistical information
+    * Synthetic data generation based on the correlation and distribution of original event logs of order-to-cash processes
+      
+* Jan. 2025 -- Oct. 2025: PriBic-CCA
+    * Full correctness and fast evaluation of both linear and non-linear operations
+    * Malicious security in gene expression analysis by a biclustering algorithm
+      
 * Jan. 2024 -- Nov. 2024: FunBic-CCA
     * Privacy-preserving evaluation of linear as well as non-linear operations
     * Optimized building block with MPC cryptography technique
@@ -141,12 +155,12 @@ Languages
 Skills
 ======
 * Technical Skills
-  * Privacy-preserving Machine Learning: Fully Homomorphic Encryption (Pyfhel), Multi-party Computation (Funshade), Federated Learning (MetisFL)
+  * Privacy-preserving Machine Learning: Fully Homomorphic Encryption (Pyfhel), Multi-party Computation (Funshade), Federated Learning (MetisFL), Differential Privacy (DP)
   * Programming Language: Python, Java, C#
   * Big Data Components: Hadoop ecosystem (HDFS, YARN, MapReduce), ingestion and integration (sqoop, Flume, Kafka), stream and batch processing (Apache Spark and Pig)
   * Data Analytics and Visualizations: NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
   * Database Management Systems: MySQL, Microsoft SQL Server, Oracle Database, Cassandra
-  * Development Platforms: PyCharm, Anaconda, Apache Zeppelin, Jupyter Notebook
+  * Development Platforms: PyCharm, Anaconda, Apache Zeppelin, Jupyter Notebook, Databricks
   * Version Control: Git
 
   
