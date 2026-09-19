@@ -17,29 +17,26 @@ Education
 
 Work experience
 ======
-* Jan. 2022 - present: Applied Cryptography Engineer/ Researcher
+* Sep. 2026 - present: Research Assistant
   * Database Technologies and Data Analytics Group, Goethe University Frankfurt
   * Frankfurt am Main, Germany
   * Duties included:
-      *  Developed the first comparative platform for privacy-preserving biclustering algorithms by using the homomorphic encryption technique that enabled the computation of sensitive genomic data directly on encrypted data.
-      * Delivered a fully secure workflow for biclustering algorithms, employing Multi-party Computation schemes to provide privacy and full correctness.
-      * Spearheaded the successful implementation of comprehensive pipelines for analyzing medical data provided by Frankfurt University Hospital, employing specialized biclustering algorithms that enhanced understanding of gene expression.
-      *  Managed a team of Python programmers to deliver open-source projects with publications in the top-ranking conferences.
+      * Contributing to the PrivacyUmbrella 2 project, focusing on anonymizing medical data.
+      * Evaluating the robustness of anonymized datasets against re-identification attacks.
 
 * Nov. 2025 - Apr. 2026: Visiting Researcher 
   * Blue Skye Research Team, SAP Signavio SE
   * Hybrid, Germany
   * Duties included:
-      * Conducted in-depth research in process mining with a focus on exploratory analysis and privacy-preserving event logs of order to cash processes and statistical information.
-      * Delivered end-to-end implementation of research results and comparative evaluation of existing privacy techniques through systematic benchmarking against baseline methods.
-        
+      * Conducted in-depth exploratory analyses, identifying 2 major bottlenecks and created 3 privacy-preserving frameworks to anonymize event logs and statistical information.
+      * Delivered an end-to-end implementation of research results and a comparative evaluation of existing privacy techniques through systematic benchmarking against baseline methods.
+   
 * Feb. 2025 - Jun. 2025: Information Technology Assistant 
   * IT Department, castLabs GmbH
   * Hybrid, Germany
   * Duties included:
-      * Conducted research on AI platforms, deployment environments, and hardware requirements.
-      * Designed and implemented an internal chatbot using selected LLM infrastructure.
-      * Monitored system performance and accuracy, optimizing reliability and responsiveness.
+      * Designed an internal LLM-based chatbot for 50+ company staff after evaluating 10+ AI platforms, reducing manual support requests.
+      * Improved response accuracy by 20% through iterative tuning and monitoring.
         
 * Jan. 2024 - Jan. 2025: Single-frame Forensic Watermarking QA Support/ Test Engineer
   * QA Department, castLabs GmbH
@@ -49,6 +46,15 @@ Work experience
       * Executed QA tests, particularly focusing on the Forensic Watermarking solution.
       * Performed defect tracking & management in JIRA.
    
+* Jan. 2022 - Oct. 2023: Research Assistant
+  * Database Technologies and Data Analytics Group, Goethe University Frankfurt
+  * Frankfurt am Main, Germany
+  * Duties included:
+      *  Developed the first comparative platform for privacy-preserving biclustering algorithms by using the homomorphic encryption technique that enabled the computation of sensitive genomic data directly on encrypted data.
+      * Delivered a fully secure workflow for biclustering algorithms, employing Multi-party Computation schemes to provide privacy and full correctness.
+      * Spearheaded the successful implementation of comprehensive pipelines for analyzing medical data provided by Frankfurt University Hospital, employing specialized biclustering algorithms that enhanced understanding of gene expression.
+      *  Managed a team of Python programmers to deliver open-source projects with publications in the top-ranking conferences.
+        
 * Oct. 2016 - Mar. 2020: Business Analyst and Software Test Engineer
   * Card Management System Team, Datis Arian Queshm (Dotin) Company
   * Tehran, Iran
