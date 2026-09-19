@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a computer science engineer with recent experience in genomic privacy. My training encompasses data science, large-scale biomedical data analytics, proficiency in machine learning algorithms, and expertise in the Python programming language. With an overall +3 years, I have held roles as an IT assistant, test engineer and business analyst within enterprises specializing in software development for the banking sector and digital video markets.
+I am a PhD researcher in Applied Cryptography at Goethe University Frankfurt, focusing on privacy-preserving data analytics for sensitive biomedical information. My work integrates secure computation, machine learning, and software engineering to utilise practical privacy-enhancing technologies for various applications. I am especially committed to transforming research into open-source software that facilitates secure and reliable data sharing.
 
 
 <!--Research Interest
