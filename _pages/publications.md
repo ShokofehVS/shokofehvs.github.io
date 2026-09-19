@@ -10,10 +10,10 @@ For the full list of academic publications, check out my [Google Scholar](https:
 **The data and codes which are not publicly released might be available upon request.**
 
 
-In preparation 
+Under review 
 ------
 
-1. **VahidianSadegh, Sh.**, Ibarrondo, A., Wiese, L.: *PriBic-CCA: Private Biclustering Analysis with Cheng and Church Algorithm*, in preparation.
+1. **VahidianSadegh, Sh.**, Ibarrondo, A., Cheng, N., Wiese, L.: *PriBic-CCA: Private Biclustering Analysis with Cheng and Church Algorithm*, under review.
 
 
 Journal papers
